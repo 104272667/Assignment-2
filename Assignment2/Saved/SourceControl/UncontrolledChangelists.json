@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/2D_Asset.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/C9/TLK4H563B63HT6DJKW6AJ6.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/2D_Asset_Mat.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/blinn1.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/layeredShader1.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/Tip_Jar_Jar_HighPoly.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZJ/0SJEQAD6HXOCOV209RXXAQ.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/Tip_Jar_Jar_LowPoly.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/Tips.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/Import/Tip_Jar.uasset",
+				"C:/Users/104272667/Documents/Unreal Projects/Assignment2/Assignment-2/Assignment2/Content/Imported/Import/blinn1.uasset"
 			]
 		}
 	]
