@@ -78,9 +78,10 @@ also show transparency.
 Sprite sheet must loop in its animation, and demonstrate transparency.
 Also look into how to make sprites not loop and only play once.
 Spritesheet must be visible when the game is running.
-3. VA03: Import a 3D animated object, and have its animation looped in the
-running game. Also look into how to make the animation a ‘one shot’ (plays
-only once).
+3. AU01: Import sound files into the engine. Figure out a way to trigger one-
+shot sounds, and have looping sounds. You will also need to figure out how
+to trigger the sounds when the user interacts in the game with either a
+keypress or mouse click.
 4. VA07: Create a 3D ‘arena’ or room, using only the engine, without any
 external programs. Plugins or addons are allowed. There needs to be a
 minimum of 5 materials/textures created in the engine that are applied to
